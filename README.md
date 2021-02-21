@@ -1,11 +1,10 @@
 # Overcooked-AI-PCG User Study
 
-This repository contains the data of all 27 subjects of the user study of Overcooked-AI-PCG project. You can view the data and replay the collaborated human-robot game play here. For more information about the project itself, please checkout [the original Overcooked-AI-PCG repo](https://github.com/icaros-usc/overcooked_ai).
+This repository contains the data of all 27 subjects of the user study of Overcooked-AI-PCG project. You can view the data and replay the collaborated human-robot game play here. For more information about the project itself, please refer to the [Overcooked-AI-PCG repo](https://github.com/icaros-usc/overcooked_ai).
 
 ## The user study data.
 
 The data of the user study are under the `user_study/results` directory. There are 27 directories in total, each containing the data of one subject. The data of each subject is in its corresponding `<subject_ID>/human_log_refined.csv` file.
-
 
 ## Replay the human-robot traces.
 
