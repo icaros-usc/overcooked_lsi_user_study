@@ -55,3 +55,8 @@ For example, if you want to replay the trace of the subject `Y-0` playing the le
 ```
 python replay_user_study.py -l Y-0 -type even_workloads-0
 ```
+
+## Credits
+
+The `overcooked_ai_py` directory is adopted from [this project](https://github.com/HumanCompatibleAI/overcooked_ai) by the 
+Center for Human-Compatible AI.
