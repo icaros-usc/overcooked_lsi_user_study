@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Holds project dependencies and metadata."""
+"""Project dependencies and metadata."""
 
 from setuptools import find_packages, setup
 
