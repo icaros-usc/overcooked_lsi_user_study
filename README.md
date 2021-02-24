@@ -1,6 +1,6 @@
 # Overcooked-AI-PCG User Study
 
-This repository contains the data of all 27 subjects of the user study of Overcooked-AI-PCG project. You can view the data and replay the collaborated human-robot game play here. For more information about the project itself, please refer to the [Overcooked-AI-PCG repo](https://github.com/icaros-usc/overcooked_ai).
+This repository contains the data of all 27 subjects of the user study of Overcooked-AI-PCG project. You can view the data and replay the collaborated human-robot game play here.
 
 ## The user study data.
 
@@ -9,8 +9,6 @@ The data of the user study are under the `user_study/results` directory. There a
 ## Replay the human-robot traces.
 
 ### Install Overcooked-AI
-
-Note: if you have installed the dependencies of [the original Overcooked-AI-PCG repo](https://github.com/icaros-usc/overcooked_ai), you can use that and skip this step.
 
 It is useful to set up a conda environment with Python 3.7 using
 [Anaconda](https://www.anaconda.com/products/individual):
@@ -55,8 +53,3 @@ For example, if you want to replay the trace of the subject `Y-0` playing the le
 ```
 python replay_user_study.py -l Y-0 -type even_workloads-0
 ```
-
-## Credits
-
-The `overcooked_ai_py` directory is adopted from [this project](https://github.com/HumanCompatibleAI/overcooked_ai) by the 
-Center for Human-Compatible AI.
