@@ -4,7 +4,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='overcooked_ai_user_study',
+    name='overcooked_lsi_user_study',
     version='0.0.0',
     description='User-study data for Overcooked-AI-PCG',
     packages=find_packages(),
