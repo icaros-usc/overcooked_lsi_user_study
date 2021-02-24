@@ -48,8 +48,8 @@ low_team_fluency-0
 low_team_fluency-1
 low_team_fluency-2
 ```
-For example, if you want to replay the trace of the subject `Y-0` playing the level `even_workloads-0`, use the following command:
+For example, if you want to replay the trace of the subject `1` playing the level `even_workloads-0`, use the following command:
 
 ```
-python replay_user_study.py -l Y-0 -type even_workloads-0
+python replay_user_study.py -l 1 -type even_workloads-0
 ```
