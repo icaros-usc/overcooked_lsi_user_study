@@ -1,6 +1,6 @@
-# Overcooked-AI-PCG User Study
+# Overcooked-LSI User Study
 
-This repository contains the data of all 27 subjects of the user study of Overcooked-AI-PCG project. You can view the data and replay the collaborated human-robot game play here.
+This repository contains the data of all 27 subjects of the user study of Overcooked-LSI project. You can view the data and replay the collaborated human-robot game play here.
 
 ## The user study data.
 
@@ -14,14 +14,14 @@ It is useful to set up a conda environment with Python 3.7 using
 [Anaconda](https://www.anaconda.com/products/individual):
 
 ```
-conda create -n overcooked_ai_pcg_user_study python=3.7
-conda activate overcooked_ai_pcg_user_study
+conda create -n overcooked_lsi_user_study python=3.7
+conda activate overcooked_lsi_user_study
 ```
 
 To complete the installation after cloning the repo, run the following commands:
 
 ```
-cd overcooked_ai_pcg_user_study
+cd overcooked_lsi_user_study
 pip install -e .
 ```
 
