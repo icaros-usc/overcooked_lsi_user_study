@@ -1,7 +1,7 @@
 # Overcooked-LSI User Study
 
 This repository contains the data of all 27 subjects of the user study of the paper:
-"On the importance of environments in Human-Robot Coordination". Matthew Fontaine^*, Ya-Chuan Hsu^*, Yulun Zhang^*, Bryon Tjanaka^*, Stefanos Nikolaidis. RSS 2021.
+"On the importance of environments in Human-Robot Coordination". Matthew Fontaine*, Ya-Chuan Hsu*, Yulun Zhang*, Bryon Tjanaka*, Stefanos Nikolaidis. RSS 2021.
 
 
 You can view the data and replay the collaborated human-robot game play here.
