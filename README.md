@@ -58,4 +58,8 @@ For example, if you want to replay the trace of the subject `1` playing the leve
 python replay_user_study.py -l 1 -type even_workloads-0
 ```
 
-The project uses the Overcooked implementation from: https://github.com/HumanCompatibleAI/overcooked_ai
+
+## Credits
+
+The `overcooked_ai_py` directory is adopted from [this project](https://github.com/HumanCompatibleAI/overcooked_ai) by the 
+Center for Human-Compatible AI.
